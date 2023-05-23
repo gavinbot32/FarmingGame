@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7212e7fdc93f794a9bbdc6ed0ce9d94, type: 3}
+  m_Name: Potatos
+  m_EditorClassIdentifier: 
+  daysToGrow: 4
+  growProgressSprites:
+  - {fileID: -475899751, guid: f9b3d0fc893d537419e0f6cf9a198553, type: 3}
+  - {fileID: -475899751, guid: f9b3d0fc893d537419e0f6cf9a198553, type: 3}
+  - {fileID: 594539520, guid: f9b3d0fc893d537419e0f6cf9a198553, type: 3}
+  - {fileID: 1502215305, guid: f9b3d0fc893d537419e0f6cf9a198553, type: 3}
+  harvestSprite: {fileID: 991239153, guid: f9b3d0fc893d537419e0f6cf9a198553, type: 3}
+  noWaterTime: 3
+  purchasePrice: 2.5
+  sellPrice: 9.99

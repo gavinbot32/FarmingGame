@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7212e7fdc93f794a9bbdc6ed0ce9d94, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  daysToGrow: 3
+  growProgressSprites:
+  - {fileID: 1961030908, guid: dd88d7dc734d7734e86534bee30cc21f, type: 3}
+  - {fileID: -364523238, guid: dd88d7dc734d7734e86534bee30cc21f, type: 3}
+  - {fileID: -1169974715, guid: dd88d7dc734d7734e86534bee30cc21f, type: 3}
+  harvestSprite: {fileID: 426566553, guid: dd88d7dc734d7734e86534bee30cc21f, type: 3}
+  noWaterTime: 1
+  purchasePrice: 1
+  sellPrice: 3.99
